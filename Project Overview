@@ -1,0 +1,11 @@
+The rapid spread of misinformation and fake news through digital and social media platforms has become a significant challenge in today's information-driven world. 
+This challenge is particularly complex for low-resource languages such as Bengali, where the availability of high-quality datasets, linguistic resources, and advanced computational tools remains comparatively limited.
+This research project focuses on the development of a Multi-modal Fake News Detection Framework for Bengali, designed to investigate the detection of fake news by jointly analysing textual and visual information associated with news content. 
+Unlike conventional approaches that primarily rely on textual features, the proposed framework explores a multi-modal approach that considers complementary information from both text and images.
+The research incorporates techniques from Natural Language Processing (NLP), Computer Vision, and Vision-Language Models to process and analyse Bengali news content and its associated visual information. 
+The extracted representations from different modalities are then integrated within the proposed framework to support the classification of news content as Real or Fake.
+The primary objective of this research is to explore the effectiveness of multi-modal artificial intelligence techniques for Bengali fake news detection and contribute towards addressing the challenges of misinformation detection in low-resource language settings. 
+The research is currently under development, and the findings and experimental results are being further evaluated as part of ongoing work towards publication.
+
+
+This project is part of an ongoing research work. The research paper is currently under development and is being prepared for publication.
